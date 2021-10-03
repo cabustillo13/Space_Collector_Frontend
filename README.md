@@ -31,6 +31,10 @@ More info about: [How to get starte?](https://worldwind.arc.nasa.gov/web/get-sta
 
 ## 3) RESULTS ANALYSIS FOR HUMANS:dart:
 
+![Image 0](https://github.com/cabustillo13/Space_Collector_Frontend/blob/main/demo_results/nasa_0.png)
+![Image 1](https://github.com/cabustillo13/Space_Collector_Frontend/blob/main/demo_results/nasa_1.png)
+![Image 2](https://github.com/cabustillo13/Space_Collector_Frontend/blob/main/demo_results/nasa_2.png)
+
 ## Bibliography:speech_balloon:
 
 - [World Wind NASA](https://worldwind.arc.nasa.gov/)
