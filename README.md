@@ -27,13 +27,13 @@ In the command line console, run python -m http.server.
 In your web browser, head to the address http://localhost/:8000.
 ```
 
-More info about: [How to get starte?](https://worldwind.arc.nasa.gov/web/get-started/#anchor)
+More info about: [How to get started?](https://worldwind.arc.nasa.gov/web/get-started/#anchor)
 
 ## 3) RESULTS ANALYSIS FOR HUMANS:dart:
 
-![Image 0](https://github.com/cabustillo13/Space_Collector_Frontend/blob/main/demo_results/nasa_0.png)
+![Image 0](https://github.com/cabustillo13/Space_Collector_Frontend/blob/main/demo_results/nasa_0.JPG)
 ![Image 1](https://github.com/cabustillo13/Space_Collector_Frontend/blob/main/demo_results/nasa_1.png)
-![Image 2](https://github.com/cabustillo13/Space_Collector_Frontend/blob/main/demo_results/nasa_2.png)
+![Image 2](https://github.com/cabustillo13/Space_Collector_Frontend/blob/main/demo_results/nasa_2.JPG)
 
 ## Bibliography:speech_balloon:
 
